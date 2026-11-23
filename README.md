@@ -23,7 +23,7 @@ npm run dist
 安装生成的客户端，完成产品登录和店铺接入
 
 #### 体验demo
-演示地址：https://wx.fensiguanjia.com 可自行注册
+演示地址：https://kf.ai-bool.com 可自行注册体验
 
 ![输入图片说明](image.png)
 ![输入图片说明](image2.png)
